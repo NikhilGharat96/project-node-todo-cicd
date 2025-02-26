@@ -11,5 +11,5 @@
    copy passwd to access jenkins.<br>
 
 5. In jenkins create freestyle job of any name eg. mynode<br>
-   ![App Screenshot]()
+   ![App Screenshot](Screenshot 2025-02-26 220539.png)
 

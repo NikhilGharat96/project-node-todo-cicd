@@ -10,6 +10,7 @@
    `sudo cat /var/lib/jenkins/secrets/initialAdminPassword`<br>
    copy passwd to access jenkins.<br>
 
-5. In jenkins create freestyle job of any name eg. mynode<br>
-![App Screenshot](https://github.com/NikhilGharat96/project-node-todo-cicd/blob/master/Screenshot%202025-02-25%20220340.png)
-
+5. In jenkins create freestyle job of any name.  eg. todo-node-app<br><br>
+  <strong>`In configuration-->General-->Github project--> add your project repo url`</strong><br>
+  <strong> `and in source code management select git-->add here your project url also`</strong><br><br>
+  <strong>`and then add credentials for jenkins take username ubuntu then you have to enter your private key`</strong>

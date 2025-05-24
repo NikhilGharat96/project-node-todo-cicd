@@ -1,6 +1,7 @@
 # node-todo-cicd
 
-Run these commands: To check your app is run properly or not in your server.
+Run these commands: To check your app is run properly or not in your server.<br>
+use sudo previlage if you are getting error.
 
 
 `sudo apt install nodejs`
